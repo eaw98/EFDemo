@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDemoWeb", "EFDemoWeb\EFDemoWeb.csproj", "{5B0629A9-296C-4FF7-B88D-AA3D0936894F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDataAccessLibrary", "EFDataAccessLibrary\EFDataAccessLibrary.csproj", "{75397FCF-C697-4454-998B-FBEADEBE84D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B0629A9-296C-4FF7-B88D-AA3D0936894F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0629A9-296C-4FF7-B88D-AA3D0936894F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0629A9-296C-4FF7-B88D-AA3D0936894F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0629A9-296C-4FF7-B88D-AA3D0936894F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75397FCF-C697-4454-998B-FBEADEBE84D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75397FCF-C697-4454-998B-FBEADEBE84D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75397FCF-C697-4454-998B-FBEADEBE84D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75397FCF-C697-4454-998B-FBEADEBE84D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
